@@ -60,6 +60,8 @@ public class TvShow {
 		System.out.println("clear it now:");
 		tvShows.clear();
 		System.out.println("number of element in array" + tvShows);
+		
+		System.out.println("Bijay");
 	}
 
 }
